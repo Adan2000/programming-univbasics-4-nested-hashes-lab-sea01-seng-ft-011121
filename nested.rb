@@ -85,7 +85,7 @@ programmer_hash =
         :languages => ["C"]
       }
     }
-programmer_hash[]
+programmer_hash[yukihiro_matsumoto]
 
 end
 
