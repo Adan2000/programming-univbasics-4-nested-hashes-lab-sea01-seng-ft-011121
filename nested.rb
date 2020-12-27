@@ -86,7 +86,7 @@ programmer_hash =
       }
     }
 
-programmer_hash[:yukohiro_matsumoto] = {:known_for=> "Ruby", :languages=> ["LISP", "C"]}
+programmer_hash[:yukohiro_matsumoto = {:known_for=> "Ruby", :languages=> ["LISP", "C"]}]
 end
 
 
