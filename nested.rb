@@ -105,7 +105,7 @@ programmer_hash =
         :languages => ["C"]
       }
     }
-programmer_hash[:grace_hopper, :alan_kay, :dennis_ritchie] = :yukihiro_matsumoto
+
 
 programmer_hash[:alan_kay][:known_for]= "GUI"
 
