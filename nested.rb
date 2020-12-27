@@ -86,7 +86,7 @@ programmer_hash =
       }
     }
 
-programmer_hash[:grace_hopper, :alan_kay, :dennis_ritchie][:yukohiro_matsumoto] = {:known_for=> "Ruby", :languages=> ["LISP", "C"]}
+programmer_hash[:yukihiro_matsumoto] = {:known_for=> "Ruby", :languages=> ["LISP", "C"]}
 
 end
 
