@@ -87,6 +87,8 @@ programmer_hash =
     }
 
 programmer_hash[:yukohiro_matsumoto] = {:known_for=> "Ruby", :languages=> ["LISP", "C"]}
+binding.pry
+puts "hui"
 end
 
 
