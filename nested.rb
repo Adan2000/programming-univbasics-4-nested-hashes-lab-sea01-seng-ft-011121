@@ -85,9 +85,8 @@ programmer_hash =
         :languages => ["C"]
       }
     }
-programmer_hash[:yukihiro_matsumoto][ { :known_for => "Ruby"}, {:languages => ["LISP", "C"] } ]
-binding.pry
-puts "hi"
+programmer_hash[:yukihiro_matsumoto]
+
 end
 
 
