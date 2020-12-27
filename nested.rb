@@ -85,7 +85,7 @@ programmer_hash =
         :languages => ["C"]
       }
     }
-programmer_hash[:yukihiro_matsumoto].merge![()] 
+programmer_hash[:yukihiro_matsumoto].merge![({:known_for => "Ruby",:languages => ["LISP", "C"]})] 
 
 end
 
